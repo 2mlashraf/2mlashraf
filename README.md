@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aml Ashraf  👋
+a CS student at Zagazig University with a strong passion for Data Analysis, and AI
 
-<!--
-**2mlashraf/2mlashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Learning 
+- Python 🐍
+- Advanced C++ & OOP
+- Data Structures & Algorithms
 
-Here are some ideas to get you started:
+---
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql)](https://skillicons.dev)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Contact Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amll-ashraff-898113363) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalashraf20000@gmail.com)
